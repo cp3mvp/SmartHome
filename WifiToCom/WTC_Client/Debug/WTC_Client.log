@@ -1,0 +1,22 @@
+﻿生成启动时间为 2013/5/30 16:32:37。
+     1>项目“C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\WTC_Client\WTC_Client.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\WTC_Client.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\WTC_Client.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt WTC_Client.cpp WTC_ClientDlg.cpp
+         WTC_ClientDlg.cpp
+         WTC_Client.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\WTC_Client.res" WTC_Client.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\Debug\WTC_Client.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\Debug\WTC_Client.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\Debug\WTC_Client.lib" /MACHINE:X86 Debug\WTC_Client.res
+         Debug\stdafx.obj
+         Debug\WTC_Client.obj
+         Debug\WTC_ClientDlg.obj
+         WTC_Client.vcxproj -> C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\Debug\WTC_Client.exe
+     1>已完成生成项目“C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\WTC_Client\WTC_Client.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.07

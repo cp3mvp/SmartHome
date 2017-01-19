@@ -1,0 +1,25 @@
+﻿生成启动时间为 2013/5/29 14:36:50。
+     1>项目“C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\WTC_Srv\WTC_Srv.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\WTC_Srv.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\WTC_Srv.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt config.cpp WTC_Srv.cpp WTC_SrvDlg.cpp
+         config.cpp
+         WTC_Srv.cpp
+         WTC_SrvDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\WTC_Srv.res" WTC_Srv.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\Release\WTC_Srv.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\Release\WTC_Srv.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\Release\WTC_Srv.lib" /MACHINE:X86 /SAFESEH Release\WTC_Srv.res
+         Release\config.obj
+         Release\stdafx.obj
+         Release\WTC_Srv.obj
+         Release\WTC_SrvDlg.obj
+         正在生成代码
+         已完成代码的生成
+         WTC_Srv.vcxproj -> C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\Release\WTC_Srv.exe
+     1>已完成生成项目“C:\Users\WangD\documents\visual studio 2012\Projects\WifiToCom\WTC_Srv\WTC_Srv.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.09

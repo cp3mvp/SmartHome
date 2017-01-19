@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WTC_Srv", "WTC_Srv\WTC_Srv.vcxproj", "{C4FB8DC3-974F-4429-A9DF-1D7B56494270}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WTC_Client", "WTC_Client\WTC_Client.vcxproj", "{03D7354B-0D27-487A-88EA-D135569D8BF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AD", "D:\Download\1407班 王迪\AD\AD.vcxproj", "{28A5A680-0722-451F-8E31-60FCC9C82018}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Serial1App", "D:\Serial1App\Serial1App\Serial1App\Serial1App.vcxproj", "{FA5E3240-2860-4AC8-8954-503544777AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4FB8DC3-974F-4429-A9DF-1D7B56494270}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4FB8DC3-974F-4429-A9DF-1D7B56494270}.Debug|Win32.Build.0 = Debug|Win32
+		{C4FB8DC3-974F-4429-A9DF-1D7B56494270}.Release|Win32.ActiveCfg = Release|Win32
+		{C4FB8DC3-974F-4429-A9DF-1D7B56494270}.Release|Win32.Build.0 = Release|Win32
+		{03D7354B-0D27-487A-88EA-D135569D8BF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03D7354B-0D27-487A-88EA-D135569D8BF0}.Debug|Win32.Build.0 = Debug|Win32
+		{03D7354B-0D27-487A-88EA-D135569D8BF0}.Release|Win32.ActiveCfg = Release|Win32
+		{03D7354B-0D27-487A-88EA-D135569D8BF0}.Release|Win32.Build.0 = Release|Win32
+		{28A5A680-0722-451F-8E31-60FCC9C82018}.Debug|Win32.ActiveCfg = Debug|Win32
+		{28A5A680-0722-451F-8E31-60FCC9C82018}.Debug|Win32.Build.0 = Debug|Win32
+		{28A5A680-0722-451F-8E31-60FCC9C82018}.Release|Win32.ActiveCfg = Release|Win32
+		{28A5A680-0722-451F-8E31-60FCC9C82018}.Release|Win32.Build.0 = Release|Win32
+		{FA5E3240-2860-4AC8-8954-503544777AE8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FA5E3240-2860-4AC8-8954-503544777AE8}.Debug|Win32.Build.0 = Debug|Win32
+		{FA5E3240-2860-4AC8-8954-503544777AE8}.Release|Win32.ActiveCfg = Release|Win32
+		{FA5E3240-2860-4AC8-8954-503544777AE8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
